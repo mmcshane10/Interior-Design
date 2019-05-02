@@ -1,0 +1,21 @@
+.column {
+  width: 400px;
+  float: left;
+  padding: 10px;
+  border: 2px solid red;
+  background-color: skyblue;
+  margin: 2px;
+}
+
+img {
+  float: inline-start;
+  max-width: 400px;
+}
+
+h1{
+  text-align: center;
+}
+
+body{
+  background-color: pink;
+}
